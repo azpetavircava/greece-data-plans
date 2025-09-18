@@ -52,3 +52,10 @@ layout: default
 
 　　**话说回来**，选择哪种方式上网，没有标准答案。像我就偏爱eSIM的便捷，但我也理解很多人喜欢实体卡“握在手里”的实在感。最重要的是，它能让你的旅程更顺畅，让你能毫无顾虑地捕捉和分享每一刻地中海的阳光。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Greece SIM 卡购买与激活指南](https://faciylike.github.io/greece-sim-guides)
